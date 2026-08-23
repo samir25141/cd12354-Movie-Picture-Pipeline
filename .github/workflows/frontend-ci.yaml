@@ -1,3 +1,4 @@
+# Frontend CI workflow
 name: Frontend Continuous Integration
 
 on:
