@@ -1,3 +1,4 @@
+# Frontend CI pipeline
 name: Frontend Continuous Integration
 
 on:
